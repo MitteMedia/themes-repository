@@ -17,12 +17,12 @@
 		"2": "Jetpack gallery with carousel feature",
 		"3": "Navbar with social links and static pages"
 	},
-	"description_de": "",
+	"description_de": "Portfolio ist ein eifaches und minimalistisches Theme. Zeigt Cover Bilder und ist großartig für persönliche Portfolios.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"0": "Cover Bilder als Thumbnail",
+		"1": "Zufällige Pastellfarbe falls kein Cover Bild eingestellt ist",
+		"2": "Jetpack Gallerie mit Karusell Feature",
+		"3": "Navigationsleiste mit Social Links und statischen Seiten"
 	},
 	"description_es": "Portfolio es un tema sencillo y minimalista, muestra imágenes de portada y es ideal para una cartera personal.",
 	"features_es": {
